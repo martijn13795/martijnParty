@@ -1,0 +1,38 @@
+[2015-03-02T21:59:53+01:00] [2015-03-02T21:59:53+01:00] [remoteCP Notice] parse error. not well formed
+[2015-03-02T21:59:53+01:00] [2015-03-02T21:59:53+01:00] [PHP Warning] Invalid argument supplied for foreach() on line 37 in file /var/www/html/remoteCP_4-0-3-5/plugins/Update/index.php
+[2015-03-02T21:59:53+01:00] [2015-03-02T21:59:53+01:00] [PHP Warning] Invalid argument supplied for foreach() on line 50 in file /var/www/html/remoteCP_4-0-3-5/plugins/Update/index.php
+[2015-03-02T22:01:04+01:00] [2015-03-02T22:01:04+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:09+01:00] [2015-03-02T22:01:09+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:11+01:00] [2015-03-02T22:01:11+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:13+01:00] [2015-03-02T22:01:13+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:14+01:00] [2015-03-02T22:01:14+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:19+01:00] [2015-03-02T22:01:19+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:22+01:00] [2015-03-02T22:01:22+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:24+01:00] [2015-03-02T22:01:24+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:28+01:00] [2015-03-02T22:01:28+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:28+01:00] [2015-03-02T22:01:28+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:29+01:00] [2015-03-02T22:01:29+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:32+01:00] [2015-03-02T22:01:32+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:34+01:00] [2015-03-02T22:01:34+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:39+01:00] [2015-03-02T22:01:39+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:43+01:00] [2015-03-02T22:01:43+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:44+01:00] [2015-03-02T22:01:44+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:44+01:00] [2015-03-02T22:01:44+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:01:49+01:00] [2015-03-02T22:01:49+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:03:43+01:00] [2015-03-02T22:03:43+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:03:47+01:00] [2015-03-02T22:03:47+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:03:48+01:00] [2015-03-02T22:03:48+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:10:28+01:00] [2015-03-02T22:10:28+01:00] [remoteCP Notice] Start index out of bound. [-1000]
+[2015-03-02T22:11:29+01:00] [2015-03-02T22:11:29+01:00] [remoteCP Notice] parse error. not well formed
+[2015-03-02T22:11:29+01:00] [2015-03-02T22:11:29+01:00] [PHP Warning] Invalid argument supplied for foreach() on line 37 in file /var/www/html/remoteCP_4-0-3-5/plugins/Update/index.php
+[2015-03-02T22:11:29+01:00] [2015-03-02T22:11:29+01:00] [PHP Warning] Invalid argument supplied for foreach() on line 50 in file /var/www/html/remoteCP_4-0-3-5/plugins/Update/index.php
+[2015-03-02T22:11:40+01:00] [2015-03-02T22:11:40+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-02T22:11:43+01:00] [2015-03-02T22:11:43+01:00] [remoteCP Warning] Permission error, not logged in on line 43 in file /var/www/html/remoteCP_4-0-3-5/ajax.php
+[2015-03-26T21:12:01+01:00] [2015-03-26T21:12:01+01:00] [remoteCP Notice] Error, password invalid
+[2015-05-27T17:48:44+02:00] [2015-05-27T17:48:44+02:00] [remoteCP Notice] parse error. not well formed
+[2015-05-27T17:48:44+02:00] [2015-05-27T17:48:44+02:00] [PHP Warning] Invalid argument supplied for foreach() on line 37 in file /var/www/html/remoteCP_4-0-3-5/plugins/Update/index.php
+[2015-05-27T17:48:44+02:00] [2015-05-27T17:48:44+02:00] [PHP Warning] Invalid argument supplied for foreach() on line 50 in file /var/www/html/remoteCP_4-0-3-5/plugins/Update/index.php
+[2015-06-06T15:48:46+02:00] [2015-06-06T15:48:46+02:00] [remoteCP Notice] Serverconnection not available! remoteCP turned to offline-mode, this is not a error message!
+[2015-06-21T00:07:50+02:00] [2015-06-21T00:07:50+02:00] [remoteCP Notice] Serverconnection not available! remoteCP turned to offline-mode, this is not a error message!
+[2015-07-23T22:38:09+02:00] [2015-07-23T22:38:09+02:00] [remoteCP Notice] Start index out of bound. [-1000]
+[2015-07-23T22:38:11+02:00] [2015-07-23T22:38:11+02:00] [remoteCP Notice] Start index out of bound. [-1000]

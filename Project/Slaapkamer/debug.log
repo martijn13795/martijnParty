@@ -1,0 +1,199 @@
+[0406/151013:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0406/151013:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0406/151013:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0406/151013:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151013:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151013:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151014:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0406/151022:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151022:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151022:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151056:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151056:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151056:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151328:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151328:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151328:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0406/151514:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:177)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151514:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151514:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151518:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151518:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151521:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151523:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:177)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151523:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151523:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151812:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151812:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151812:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151812:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151812:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151813:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151814:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151814:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151814:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151814:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151814:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151814:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151822:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
+[0406/151822:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:63", source: http://127.0.0.1:54321/_DRIVE_C_EVIRD_/Users/Martijn/Desktop/Project/Slaapkamer/edge_includes/an.canvas.overlay.min.js (42)
